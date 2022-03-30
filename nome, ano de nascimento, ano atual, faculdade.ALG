@@ -2,7 +2,7 @@ Algoritmo "teste"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Hiram Amaral
 // Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : alunocetam
+// Autor(a)    : isabelle costa brito
 // Data atual  : 25/03/2022
 Var
 nome,facul: caractere

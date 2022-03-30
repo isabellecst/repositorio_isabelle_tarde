@@ -2,7 +2,7 @@ Algoritmo "primeiro ola mundo"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Hiram Amaral 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : isabelle costa brito
 // Data atual  : 29/03/2022
 Var
 
